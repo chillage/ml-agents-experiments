@@ -1,1 +1,1 @@
-# ml-agents-playground
+# ml-agents-experiments
